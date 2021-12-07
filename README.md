@@ -1,4 +1,6 @@
-# ts
+# Očkujme!
+
+Prehľad tempa očkovania na Slovensku.
 
 ## Project setup
 ```
